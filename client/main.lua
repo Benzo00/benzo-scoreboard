@@ -1,3 +1,5 @@
+--- For Support join https://discord.gg/pyKDCByzUk
+
 local ServerSlots = 48
 CreateThread(function()
     ESX.TriggerServerCallback("benzo-scoreboard:GetSlotCount", function(SlotCount)
